@@ -14,6 +14,6 @@ HOW TO USE IT:
   <line>
     <icon name="Take on Me" ID="1" color="#666" locked="false" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
     
-    <icon name="Solo" ID="2" color="#FF9900" locked="true" customName="true" customIcon="asset-v1/wip-icon.png" hidden="false"></icon>
+    <icon name="Solo" ID="2" color="#FF9900" locked="true" customName="true" customIcon="asset-v1/icon.png" hidden="false"></icon>
   </line>
 </icons>

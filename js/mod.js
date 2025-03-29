@@ -19,9 +19,9 @@ let ShakeEffectOn=null===localStorage.getItem("ShakeEffectOn")||"true"===localSt
 
 
 // Register your mod here
-var RegisterMod = "Unknow";
+var RegisterMod = "Incredibeats";
 var RegisterModVersion = "0.0.1";
-var ModDeveloper = "Developer";
+var ModDeveloper = "NepIzCool8";
 
 // Simple function for locked icons!
 function onLockedIcon1(){

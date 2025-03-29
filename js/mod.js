@@ -29,7 +29,9 @@ function onLockedIcon1(){
 }
 
 function onLockedIcon2(){
-  boxDialog.open('Work In Progress', 'WIP!')
+  hide(3);
+  bloom(5, 500)
+  MakeConfetti(3, 0.5, 0.5, 100, 100 , "custom-cursor", "assets-v1/icon_tom");
 }
 
 function onV1Bonus1Finished(){ 

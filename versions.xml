@@ -16,6 +16,6 @@ HOW TO USE IT:
     
     <icon name="Solo" ID="2" color="#FF9900" locked="true" customName="true" customIcon="asset-v1/icon_solo.png" hidden="false"></icon>
 
-    <icon name="Somebody That I Used To Know" ID="3" color="#FF9900" locked="true" customName="true" customIcon="asset-v1/styutk.png" hidden="false"></icon>
+    <icon name="Somebody That I Used To Know" ID="3" color="#FF9900" locked="true" customName="true" customIcon="asset-v1/icon_styutk.png" hidden="false"></icon>
   </line>
 </icons>

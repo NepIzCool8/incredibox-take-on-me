@@ -24,8 +24,12 @@ var RegisterModVersion = "0.0.1";
 var ModDeveloper = "Developer";
 
 // Simple function for locked icons!
-function onLockedIcon(){
-  boxDialog.open('This Icon is locked', 'LOCKED!')
+function onLockedIcon1(){
+  boxDialog.open('Work In Progress', 'WIP!')
+}
+
+function onLockedIcon2(){
+  boxDialog.open('Work In Progress', 'WIP!')
 }
 
 function onV1Bonus1Finished(){ 

@@ -30,7 +30,7 @@ function onLockedIcon1(){
 
 function onLockedIcon2(){
   hide(3);
-  bloom(5, 500)
+  bloom(5, 500);
   MakeConfetti(3, 0.5, 0.5, 100, 100 , "custom-cursor", "assets-v1/icon_styutk");
 }
 

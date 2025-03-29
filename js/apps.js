@@ -2,12 +2,12 @@
 // To add more versions, copy the versions.v1 and replace with versions.v2, and the same with others (it support more than 9 versions)
 
 versions.v1 = {
-  name: "Template",
-  version: "temp01",
+  name: "Take On Me",
+  version: "tom",
   date: "2025",
   folder: "asset-v1/", // ← If you are adding more versions, make sure follder is correct, for example "asset-v2/" for v2
   looptime: 5333,
-  bpm: 90,
+  bpm: 169,
   totalframe: 260,
   nbpolo: 7,
   bonusloopA: false, // ← It makes bonus start on loop A, if its false, bonus will start after 1 loop
@@ -20,17 +20,17 @@ versions.v1 = {
   col4: "#232323",
   animearray: [
     {
-      name: "temp_polo",
+      name: "01_kickaton",
       color: "7D7D7D",
       uniqsnd: !0, // ← !0 means that polo will use only _a audio, if its !1 - it will use _a and _b
     },
     {
-      name: "temp_polo",
+      name: "02_sanara",
       color: "7D7D7D",
       uniqsnd: !0,
     },
     {
-      name: "temp_polo",
+      name: "03_sparr",
       color: "7D7D7D",
       uniqsnd: !0,
     },
